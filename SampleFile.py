@@ -13,3 +13,8 @@ print(a)
 b = "Hi there friend"
 
 print(b)
+
+#git status
+#git add *
+#git commit -m "message about what you changed"
+#git push
