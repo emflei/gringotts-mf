@@ -10,3 +10,6 @@ a = 1
 
 print(a)
 
+b = "Hi there friend"
+
+print(b)
